@@ -1,3 +1,7 @@
+# First go to src/backend to run node main.js for running TDP server
+# Then go to src/client run node beta.js for genereating the json 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
